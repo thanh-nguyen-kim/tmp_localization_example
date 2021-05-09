@@ -2,7 +2,7 @@
 
 <https://killertee.wordpress.com/about/>
 
-A example project demos different workflow with TextMeshPro Localization. It also uses the "character_processor package" to reduce TMP character atlas size.
+An example project demos different workflow with TextMeshPro Localization. It also uses the "character_processor package" to reduce TMP character atlas size.
 
 ## Remove duplicate character from a text file
 
