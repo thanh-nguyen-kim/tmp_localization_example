@@ -16,3 +16,6 @@ An example project demos different workflow with TextMeshPro Localization. It al
 + Drag the blueprint texts in "BluePrintTexts" field.
 + Press Play.
 + The ***_output.txt should appear in StreamingAssets.
+
+Visit this site to have a deep look at Font Anatomy and useful workflow with TextMesh Pro
+<https://killertee.wordpress.com/2021/04/23/optimizing-workflow-textmesh-pro-font-atlas-for-language-localization/>
